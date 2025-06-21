@@ -2,7 +2,7 @@ backend:
   name: github
   repo: wendelneves/wendelneves.github.io   # caminho do repo
   branch: main
-  use_token: true        # usaremos PAT para simplificar
+  use_token: true
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
