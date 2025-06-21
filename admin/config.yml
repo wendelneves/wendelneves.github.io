@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: wendelneves/wendelneves.github.io   # caminho do repo
+  branch: main
+  use_token: true        # usaremos PAT para simplificar
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Data",   name: "date",  widget: "datetime"}
+      - {label: "Corpo",  name: "body",  widget: "markdown"}
