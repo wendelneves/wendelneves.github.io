@@ -1,14 +1,13 @@
-<!-- admin/index.html (corrigido) -->
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
     <title>Content Manager</title>
-    <!-- (opcional) indique explicitamente onde está o config -->
-    <link rel="cms-config-url" type="text/yaml" href="/admin/config.yml" />
   </head>
   <body>
-    <!-- carrega o Decap CMS depois que o <body> já foi criado -->
-    <script src="https://unpkg.com/netlify-cms@^2.15.59/dist/netlify-cms.js"></script>
+    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>
