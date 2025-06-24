@@ -3,3 +3,5 @@ description: "Filho, Nerd, Católico, Esposo. Meu site pessoal onde compartilho 
 theme: minima           # tema pronto do próprio GitHub Pages
 site.google_analytics: "G-6XPEEQHZFH"
 locale: "pt_BR"
+plugins: [jekyll-remote-theme]
+remote_theme: jekyll/minima@2.5-stable
