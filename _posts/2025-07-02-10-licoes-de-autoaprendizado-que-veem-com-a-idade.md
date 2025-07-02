@@ -3,10 +3,6 @@ title: 10 lições de autoaprendizado que veem com a idade
 date: 2025-07-02
 ---
 
-Claro! Aqui está a tradução com uma linguagem amigável e mantendo a estrutura original do artigo:
-
----
-
 **Você não encontra paz apenas gostando de si mesmo; você conquista essa paz conhecendo quem você realmente é.**
 Vamos parar de fingir que aceitar a si mesmo é algo fácil.
 
