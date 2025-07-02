@@ -12,7 +12,7 @@ O principal objetivo é servir a Anthropic, uma startup de IA na qual a Amazon i
 
 Este projeto representa a corrida da indústria tecnológica para construir infraestruturas de IA sem precedentes, apesar das tensões sobre os recursos e o meio ambiente.
 
-# Amazônia: O Megacentro de IA no Coração da América
+# Amazon: O Megacentro de IA no Coração da América
 
 Este documento apresenta uma revisão aprofundada dos principais temas e fatos mais importantes da fonte fornecida, "Amazônia: O Megacentro de IA no Coração da América".
 
