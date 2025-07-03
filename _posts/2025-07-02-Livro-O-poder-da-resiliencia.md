@@ -1,5 +1,5 @@
 ---
-title: Livro: O Poder da resiliência, de Rick Hanson e Forrest Hanson
+title: Livro: O Poder da resiliencia, de Rick Hanson e Forrest Hanson
 date: 2025-07-02
 ---
 
