@@ -1,5 +1,5 @@
 ---
-title: Livro - O Poder da resiliencia
+title: Livro - O Poder da resiliência
 date: 2025-07-02
 ---
 
