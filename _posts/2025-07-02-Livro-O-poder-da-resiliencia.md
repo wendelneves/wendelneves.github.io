@@ -1,5 +1,5 @@
 ---
-title: Livro: O Poder da resiliencia, de Rick Hanson e Forrest Hanson
+title: Livro - O Poder da resiliencia
 date: 2025-07-02
 ---
 
@@ -7,7 +7,7 @@ date: 2025-07-02
 
 **Resilient (2018) / O poder da resiliencia** é um guia prático sobre como cultivar suas forças internas e desenvolver qualidades como compaixão, confiança e determinação. Por meio de técnicas simples e exemplos concretos, o livro explica como você pode usar os recursos do seu cérebro para lidar com o estresse e a ansiedade – e encontrar motivação para seguir seus sonhos.
 
-#Sobre os autores
+# Sobre os autores
 
 Rick Hanson é psicólogo e autor best-seller. Possui doutorado em psicologia clínica, é pesquisador sênior do Greater Good Science Center da Universidade da Califórnia em Berkeley e fundador do Wellspring Institute for Neuroscience and Contemplative Wisdom. Hanson já foi palestrante convidado na NASA, Oxford, Stanford, Harvard e outras universidades de prestígio, além de ter ensinado em centros de meditação ao redor do mundo. Seus livros anteriores incluem Hardwiring Happiness, Buddha’s Brain, Just One Thing e Mother Nurture.
 
@@ -21,7 +21,7 @@ A resiliência está na base do bem-estar mental – é o principal alicerce da 
 
 Felizmente, desenvolver resiliência envolve práticas simples e técnicas fáceis que podem ser incorporadas ao seu dia a dia. E, ao conhecer os mecanismos psicológicos que sustentam a resiliência, você será capaz de se ajudar – aconteça o que acontecer.
 
-##Cap 01 - O caminho para o bem estar começa com a autocompaixão
+## Cap 01 - O caminho para o bem estar começa com a autocompaixão
 
 Imagine que você está escalando uma montanha íngreme em uma tarde fria de outubro. A neve está virando gelo, está escurecendo, e logo você não conseguirá mais enxergar para onde está indo. Um passo em falso pode causar um acidente – ou algo pior. Você está exausto, congelando e apavorado. O que fazer?
 
@@ -41,7 +41,7 @@ Para começar a aprender a arte da autocompaixão, é necessário criar experiê
 
 A autocompaixão não apenas faz você se sentir melhor no momento; pesquisas mostram que quanto mais autocompaixão você sente, mais resiliente você se torna com o tempo. Isso porque ela reduz a tendência de se criticar e, em vez disso, ajuda a fortalecer sua autoestima. Pode até mesmo aumentar sua ambição e seu sucesso, tanto na vida pessoal quanto profissional.
 
-##Cap 02 - Mindfulness vai te ajudar a manter a calma em momentos de stress
+## Cap 02 - Mindfulness vai te ajudar a manter a calma em momentos de stress
 
 Já assistiu a um documentário sobre a natureza? Se sim, a cena a seguir pode parecer familiar. Um grupo de zebras está pastando tranquilamente em uma planície verdejante em algum lugar da África. Elas estão atentas, de olho em possíveis predadores, mas também relaxadas e satisfeitas. Não há sinal de tensão. De repente, um leão aparece. O pânico se instala, o grupo entra em ação e os animais correm em todas as direções. Então tudo termina tão rápido quanto começou, e o rebanho volta a um estado de calma alerta.
 
@@ -62,7 +62,7 @@ Para começar, tente notar os momentos em que você se sente à vontade – e pe
 Quanto mais atento você estiver, mais será capaz de conservar sua energia, recarregar as baterias e se fortalecer. Com isso, você evitará entrar em um turbilhão de estresse a cada pequeno contratempo – como se fosse um ataque de leão. E, ao mesmo tempo, se algo realmente exigir uma reação urgente, você estará pronto – e será menos impactado por isso.
 
 
-##Cap 03 - Para lidar com os desafios da vida você vai precisar de garra
+## Cap 03 - Para lidar com os desafios da vida você vai precisar de garra
 
 Quando o renomado psiquiatra Viktor Frankl lutava para sobreviver aos horrores de um campo de concentração nazista, ele fez uma observação que o marcou profundamente. Mais tarde, escreveu um livro sobre isso, intitulado *Em Busca de Sentido*. O que ele percebeu foi que certas pessoas tinham a capacidade de permanecer generosas e ajudar os outros, apesar do sofrimento extremo que estavam vivendo. Isso frequentemente se manifestava por meio de gestos como consolar outros prisioneiros ou até doar suas já escassas porções de comida. Ele chamou isso de “a última das liberdades humanas” – o poder de escolher nossa resposta, independentemente da situação.
 
@@ -81,7 +81,7 @@ Felizmente, a impotência pode ser desaprendida, e o senso de autonomia pode ser
 Para isso, comece a buscar, de forma intencional, situações em que você possa fazer escolhas ou influenciar os resultados. Concentre-se na sensação de ser um agente ativo na situação. É ainda mais eficaz quando essa experiência representa um desafio. Por exemplo, decidir fazer uma repetição extra de um exercício difícil na academia ou reafirmar seu ponto de vista com firmeza em uma reunião quando não for ouvido.
 
 
-##Cap 04 - Gratidão ajuda a obter o melhor das emoções positivas
+## Cap 04 - Gratidão ajuda a obter o melhor das emoções positivas
 
 Pense na última vez em que você se sentiu grato. Talvez você tenha apreciado um jantar saboroso preparado por um amigo. Ou talvez tenha sido um sentimento mais abstrato de gratidão, como ao olhar para o céu limpo em um belo dia. Seja qual for a ocasião, foi uma sensação boa, certo?
 
@@ -101,7 +101,7 @@ Mas aceitar o prazer não significa negar o lado sombrio da vida. Na verdade, ao
 
 Quanto mais difícil estiver a sua vida, mais importante será vivenciar e internalizar essas sensações prazerosas – elas são seus recursos internos, que lhe dão energia para continuar.
 
-##Cap 05 - Você pode desenvolver sua autoconfiança para se tornar mais resiliente
+## Cap 05 - Você pode desenvolver sua autoconfiança para se tornar mais resiliente
 
 Você já viu crianças pequenas aprendendo a andar? Se sim, talvez tenha notado que as mais entusiasmadas recebem o tipo certo de incentivo dos pais. Enquanto garantem que seus filhos não se machuquem, os pais também lhes dão liberdade para explorar — e ajudam na medida certa, de forma que a criança se sinta capaz e feliz.
 
@@ -119,7 +119,7 @@ Ainda assim, mesmo que você tenha tido uma família amorosa na infância, ningu
 
 Portanto, quando perceber que está alimentando o fogo, faça um esforço para estar atento aos seus sentimentos. Ao ouvir aquela voz crítica na sua mente, tente fazer uma escolha consciente de duvidar do que ela diz. Assim, você fortalecerá sua autoconfiança.
 
-##Cap 06 - Você será mais resiliente se manter a calma
+## Cap 06 - Você será mais resiliente se manter a calma
 
 Se você é um animal na natureza, geralmente existem dois tipos de erro que pode cometer. O primeiro é acreditar que há um tigre escondido nos arbustos quando, na verdade, não há. Não é a sensação mais agradável do mundo! Você pode ficar assustado à toa, mas no fim, nenhum mal acontece.
 
@@ -141,7 +141,7 @@ Para reduzir a ansiedade e aumentar o relaxamento, você precisa aprender a usar
 
 E o mais incrível: algo tão simples quanto desacelerar sua respiração pode ajudá-lo a relaxar e interromper a ansiedade logo no início. Na prática, isso pode ser feito inspirando por três segundos e depois expirando lentamente por seis.
 
-##Cap 07 - Motivação é saber desejar bem
+## Cap 07 - Motivação é saber desejar bem
 
 Imagine que você está jantando na casa de um amigo. Depois de se empanturrar com uma refeição incrível, você ainda come duas sobremesas. Então, seu amigo traz uma terceira, oferece uma prova e pergunta se você gostou. Claro que é deliciosa, e uma parte de você fica tentada a ignorar o fato de que já está cheio demais para comer mais uma mordida. Em outras palavras, você pode gostar da sobremesa, mas naquele momento específico, você **não quer**.
 
@@ -167,7 +167,7 @@ Uma forma de fazer isso é refletir sobre os **custos e benefícios do querer**.
 
 A gratificação, em situações de querer, muitas vezes é passageira – e os custos podem ser altos. Basta pensar em como a dependência, seja de substâncias ou de comportamentos, pode arruinar relacionamentos – ou até vidas inteiras.
 
-##Cap 08 - Precisamos perseguir nossos sonhos
+## Cap 08 - Precisamos perseguir nossos sonhos
 
 Que tipo de vida você imaginava para si mesmo quando era criança? Talvez quisesse ser astronauta, ou quem sabe uma estrela de cinema. E o que você está fazendo agora? É bem provável que, ao crescer, tenha deixado muitos desses sonhos para trás. Hoje em dia, talvez até os considere bobos. É muito fácil nos convencermos a parar de sonhar e, em vez disso, nos conformarmos com menos.
 
@@ -187,7 +187,7 @@ Por exemplo, você pode perceber que evita tomar iniciativa no trabalho. Isso pr
 
 Com seus medos sob controle, sua mente fica livre para pensar nos passos concretos que pode dar em direção ao que realmente importa para você.
 
-##Conclusão
+## Conclusão
 
 Resiliência é a capacidade de utilizar suas próprias forças e recursos. É o seu núcleo interno seguro, que pode ser fortalecido por meio da criação de experiências positivas e da incorporação delas à sua rotina diária. Você pode desenvolver os poderes da sua mente para aprender a lidar com a adversidade, manter a calma sob pressão e cultivar a confiança necessária para seguir seus sonhos.
 
@@ -197,5 +197,5 @@ Resiliência é a capacidade de utilizar suas próprias forças e recursos. É o
 
 Para aumentar sua motivação, busque sinais de progresso enquanto persegue um objetivo. Registre suas vitórias e conquistas, por menores que sejam. Quanto mais experiências de sucesso você acumular, mais o seu cérebro se sentirá recompensado. Por exemplo, se sua caixa de entrada tem 50 e-mails que precisam de resposta, tente sentir um senso de realização a cada mensagem respondida. Assim, a tarefa como um todo parecerá menos esmagadora — e você poderá permanecer nesse estado satisfatório de esforço saudável.
 
-###Fonte:
+### Fonte:
 Adaptado de [Blinkist](https://www.blinkist.com/en/reader/books/resilient-en)
